@@ -65,4 +65,3 @@ if __name__ == '__main__':
     print ("l'altitude maximale est:",sorted(syracuse(n))[-1])
 
     //je m'appelle mylene yo //
-    //j'ai 1m67
