@@ -63,3 +63,5 @@ if __name__ == '__main__':
     print("Temps de vol en altitude:", temps_syracuse(n, altitude=True))
 
     print ("l'altitude maximale est:",sorted(syracuse(n))[-1])
+
+    //je m'appelle mylene yo //
